@@ -1,0 +1,22 @@
+{
+  "name": "imc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "serve -s src"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OR13/IMC.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/OR13/IMC/issues"
+  },
+  "homepage": "https://github.com/OR13/IMC#readme",
+  "devDependencies": {
+    "serve": "^6.3.1"
+  }
+}
